@@ -6,6 +6,6 @@
 Anyway, enough with the sales pitch...
 
 ## Current selection
-*saemon* - slightly modified standard theme with a smaller fontsize. The text editor you see in the image is [SpaceVim](https://spacevim.org/)
+*saemon* - slightly modified standard theme with a smaller fontsize. The text editor you see in the image is [SpaceVim](https://spacevim.org/). It's basically Vim on steoroids, because it features some pre-installed plugins, making it resemble a full blown IDE without all the bloat.
 
 ![theme screenshot](theme_screenshot.png)
