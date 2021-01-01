@@ -6,6 +6,6 @@
 Anyway, enough with the sales pitch...
 
 ## Current selection
-*saemon* - slightly modified standard theme with a smaller fontsize
+*saemon* - slightly modified standard theme with a smaller fontsize. The text editor you see in the image is [SpaceVim](https://spacevim.org/)
 
 ![theme screenshot](theme_screenshot.png)
